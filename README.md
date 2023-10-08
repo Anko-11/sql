@@ -1,2 +1,0 @@
-# anko11
-front
